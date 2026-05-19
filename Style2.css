@@ -1,0 +1,43 @@
+html{
+  background: #808080;
+  }
+.text{
+  font-size: 25px;
+  margin: 5%;
+  height: auto;
+  width: 90%;
+  background:#808080;
+  text-align: center;
+}
+h1{
+  text-align:center;
+  
+  
+}
+.f{
+  height:120px;
+  width:20%;
+  margin-left:35%;
+
+}
+#menu ul li{
+  background:#909090;
+  margin:5%;
+  padding: 3%;
+  
+}
+  #menu ul li:hover{
+  background:#808080;
+  margin:5%;
+  padding: 3%;
+}
+#menu ul li:active{
+  background:#200000;
+  margin:5%;
+  padding: 3%;
+	
+.comfortaa {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}

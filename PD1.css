@@ -1,0 +1,26 @@
+html{
+  background: #808080;
+  }
+.text{
+  font-size: 25px;
+  margin: 5%;
+  height: auto;
+  width: 90%;
+  background:#808080;
+  text-align: justify;
+  
+}
+h1{
+  text-align:center;
+  
+  
+}
+.Jumo{
+  margin-left:24%;
+  margin-right:24%;
+}
+.VF{
+  width:30%;
+    margin-left:35%;
+  margin-right:35%;
+}

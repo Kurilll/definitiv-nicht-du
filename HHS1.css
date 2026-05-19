@@ -1,0 +1,28 @@
+html{
+  background:#808080;
+}
+.zag{
+  margin-left:35%;
+  font-size:50px;
+}
+.text{
+  font-size:35px;
+  margin:5%;
+}
+.foto{
+  margin-left:28%;
+}
+.li{
+  font-size:25px;
+  margin:1%;
+  background: #909090;
+  margin: 5%;
+  padding: 3%;
+}
+.li:hover{
+  background:#808080;
+}
+.dop{
+  font-size:45px;
+  margin:1%;
+}

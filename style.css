@@ -1,0 +1,48 @@
+#verx{
+  background:#E0E0E0;
+  width: 100%;
+  height: auto;
+  float: up;
+  padding:2%;
+  font-size: 200px;
+}
+#menu{
+  background:#A0A0A0;
+  width: 15%;
+  height: 700px;
+  float:left;
+  font-size: 30px;
+}
+#info{
+  background:#808080;
+  width: 85%;
+  height: 700px;
+  float: right;
+  font-size: 25px;
+}
+#menu u1 li{
+  background:#909090;
+  margin:10%;
+  padding: 3%;
+}
+  #menu u1 li:hover{
+  background:#808080;
+  margin:5%;
+  padding: 3%;
+}
+#menu u1 li:active{
+  background:#200000;
+  margin:5%;
+  padding: 3%;
+}
+
+.comfortaa {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

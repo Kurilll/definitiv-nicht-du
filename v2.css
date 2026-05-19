@@ -1,0 +1,8 @@
+.video{
+  width: 23%;
+  height:200px;
+  background:red;
+  float: left;
+  margin: 1%;
+  text-align: center;
+}
